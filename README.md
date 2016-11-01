@@ -1,6 +1,7 @@
 # PuzzleAvatar
 
-仿QQ讨论组头像
+反编译QQ的开源实现
+QQ讨论组头像
 
 ---
 
